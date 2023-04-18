@@ -1,7 +1,16 @@
+# Summary
+In this project I implemented three algorithms to generate Fibonacci series, namely iterative, recursive, and dynamic programming in two different languages, C and Python. The assignment aims to explore the differences between languages and make the code more efficient. I chose the second language and used the language-specific features to solve the problem.
+
+In addition, the project required me to write a final report in markdown, addressing various topics such as an overview of the algorithms and common approaches to solving them, empirical data, and discussion, language analysis, a comparison between languages, and my key takeaways. The report included proper formatting, charts, tables, and mathematical notation. I had to justify the Big O analysis and make sure that the empirical analysis compares different versions of the algorithm for both languages. The grading rubric was based on the readability of the code and paper, the use of visuals and grammar, the presentation of the overview, the empirical analysis, language analysis, the comparison between experiences, and the conclusion.
+
+
+
+
+------
+
+
 # Midterm p1: Report on Analysis of Fibonacci Series
 * **Author**: Elif Tirkes
-* **GitHub**: [Link](https://github.com/Spring23-CS5008-BOS-Lionelle/midterm-part-1-fib-series-skippyskiddy.git)
-* **Semester** Spring 2023
 * **Languages Used**: C, Python
 
 ## Overview
